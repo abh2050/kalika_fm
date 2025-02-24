@@ -1,0 +1,28 @@
+{
+    "SKILL_NAME": "Kalika FM",
+    "ABOUT": [
+        "This is the official Kalika FM streaming skill. To continue listening, say: resume, or say: stop to stop listening."
+    ],
+    "ABOUT_REPROMPT": [
+        "To continue listening, say: resume, or say: stop to stop listening."
+    ],
+    "HELP": [
+        "This skill streams Kalika FM live when started. Simply say 'Alexa, open kalika f. m.' to begin. To stop, say 'stop'."
+    ],
+    "HELP_REPROMPT": [
+        "You can say 'Alexa, open kalika f. m.' to start streaming or 'stop' to stop listening."
+    ],
+    "FALLBACK": [
+        "Sorry, I didn't understand that. To start streaming Kalika FM, say: open kalika f. m."
+    ],
+    "FALLBACK_REPROMPT": [
+        "Sorry, I didn't understand that. To start streaming Kalika FM, say: open kalika f. m."
+    ],
+    "UNHANDLED": [
+        "This feature isn't supported yet.",
+        "Sorry, we currently do not support this feature."
+    ],
+    "DEVICE_NOT_SUPPORTED": "Sorry, this skill is not supported on this device.",
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you try again?",
+    "ERROR_REPROMPT": "Could you try again?"
+}
