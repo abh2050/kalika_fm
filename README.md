@@ -57,22 +57,23 @@ An Alexa skill that streams Kalika FM live radio from Bharatpur, Chitwan, Nepal.
 ## File Structure
 
 ├── lambda/
-│ ├── lambda_function.py
-│ └── languages/
-│ ├── en-US.json
-│ ├── en-GB.json
-│ ├── en-IN.json
-│ ├── en-CA.json
-│ ├── en-AU.json
-│ └── en.json
+│   ├── lambda_function.py
+│   └── languages/
+│       ├── en-US.json
+│       ├── en-GB.json
+│       ├── en-IN.json
+│       ├── en-CA.json
+│       ├── en-AU.json
+│       └── en.json
 ├── interactionModels/
-│ └── custom/
-│ ├── en-US.json
-│ ├── en-GB.json
-│ ├── en-IN.json
-│ ├── en-CA.json
-│ └── en-AU.json
+│   └── custom/
+│       ├── en-US.json
+│       ├── en-GB.json
+│       ├── en-IN.json
+│       ├── en-CA.json
+│       └── en-AU.json
 └── skill.json
+
 
 # Kalika FM Audio Stream Metadata
 STREAMS = [
