@@ -2,6 +2,7 @@
 ![](https://cache.usercontentapp.com/logo/mjpg/7552.jpg?format=png&enlarge=0&quality=90&width=960)
 
 An Alexa skill that streams **Kalika FM**, a live radio station from Bharatpur, Chitwan, Nepal.
+https://www.amazon.in/dp/B0DYF9CPTM/
 
 ## 🎯 Quick Start
 
